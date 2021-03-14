@@ -5,4 +5,10 @@
   background-repeat: no-repeat;
   width: 183px;
   height: 32px;
+  transition: 0.2s linear;
+}
+
+.logo:hover {
+  background-color: transparent;
+  opacity: 0.5;
 }

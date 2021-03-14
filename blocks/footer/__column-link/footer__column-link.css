@@ -4,4 +4,11 @@
   font-weight: normal;
   text-decoration: unset;
   color: white;
+  transition: 0.2s linear;
 }
+
+.footer__column-link:hover {
+  color: white;
+  opacity: 0.6;
+}
+
